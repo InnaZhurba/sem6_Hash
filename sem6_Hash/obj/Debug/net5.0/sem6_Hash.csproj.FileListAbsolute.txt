@@ -1,0 +1,15 @@
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/sem6_Hash.deps.json
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/sem6_Hash.runtimeconfig.json
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/sem6_Hash.runtimeconfig.dev.json
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/sem6_Hash.dll
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/ref/sem6_Hash.dll
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/bin/Debug/net5.0/sem6_Hash.pdb
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.csproj.AssemblyReference.cache
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.GeneratedMSBuildEditorConfig.editorconfig
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.AssemblyInfoInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.AssemblyInfo.cs
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.csproj.CoreCompileInputs.cache
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.dll
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/ref/sem6_Hash.dll
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.pdb
+/Users/innazhurba/Documents/ASD2021/sem6_hash/sem6_Hash/sem6_Hash/obj/Debug/net5.0/sem6_Hash.genruntimeconfig.cache
